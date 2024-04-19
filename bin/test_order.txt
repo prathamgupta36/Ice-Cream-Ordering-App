@@ -1,0 +1,12 @@
+10
+singlescoop
+doublescoop
+singlescoop
+soda
+concrete
+malt
+wafflecone
+soda
+float
+turtle
+
