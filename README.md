@@ -3,7 +3,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 ## Overview
-This Java application allows users to manually input ice cream orders or process them from a file. It supports multiple menu items and generates an invoice detailing the items ordered along with their prices, subtotal, tax, and total amount due.
+This Java application allows users to manually input ice cream orders or process them from a file. It supports multiple menu items and generates an invoice detailing the items ordered along with their prices, subtotal, tax, and total amount due in an exportable format.
 
 ## Features
 
